@@ -53,11 +53,11 @@ with st.beta_expander("ℹ️ - About this app ", expanded=False):
 c1, c2, c3 = st.beta_columns(3)
 
 with c1:
-    client_id = st.text_input("Client ID", "686079794781-0bt8ot3ie81iii7i17far5vj4s0p20t7.apps.googleusercontent.com")
+    client_id = st.text_input("Client ID", "_______.apps.googleusercontent.com")
   
 with c2:
   
-    client_secret = st.text_input("Client secret","FPggF0NxKQYMgQOTN6duU1EM")
+    client_secret = st.text_input("Client secret","_______________")
 
 with c3:
 
